@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/priyanshuu-thakur/DSA/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
@@ -66,8 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
