@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/priyanshuu-thakur/DSA/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/priyanshuu-thakur/DSA/tree/master/0056-merge-intervals) |
+| [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshuu-thakur/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/priyanshuu-thakur/DSA/tree/master/0041-first-missing-positive) |
+| [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshuu-thakur/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/priyanshuu-thakur/DSA/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
