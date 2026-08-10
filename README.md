@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/priyanshuu-thakur/DSA/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/priyanshuu-thakur/DSA/tree/master/0056-merge-intervals) |
+| [0119-pascals-triangle-ii](https://github.com/priyanshuu-thakur/DSA/tree/master/0119-pascals-triangle-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/priyanshuu-thakur/DSA/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
