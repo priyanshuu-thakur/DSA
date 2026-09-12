@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshuu-thakur/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/priyanshuu-thakur/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshuu-thakur/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
