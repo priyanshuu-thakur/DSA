@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/priyanshuu-thakur/DSA/tree/master/0056-merge-intervals) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshuu-thakur/DSA/tree/master/0119-pascals-triangle-ii) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/priyanshuu-thakur/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/priyanshuu-thakur/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshuu-thakur/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/priyanshuu-thakur/DSA/tree/master/0202-happy-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/priyanshuu-thakur/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/priyanshuu-thakur/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshuu-thakur/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/priyanshuu-thakur/DSA/tree/master/3870-count-commas-in-range) |
