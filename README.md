@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshuu-thakur/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/priyanshuu-thakur/DSA/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/priyanshuu-thakur/DSA/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/priyanshuu-thakur/DSA/tree/master/0202-happy-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/priyanshuu-thakur/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshuu-thakur/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshuu-thakur/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyanshuu-thakur/DSA/tree/master/0018-4sum) |
+| [0202-happy-number](https://github.com/priyanshuu-thakur/DSA/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/priyanshuu-thakur/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/priyanshuu-thakur/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
