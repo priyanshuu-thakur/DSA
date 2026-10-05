@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/priyanshuu-thakur/DSA/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/priyanshuu-thakur/DSA/tree/master/0056-merge-intervals) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshuu-thakur/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0704-binary-search](https://github.com/priyanshuu-thakur/DSA/tree/master/0704-binary-search) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/priyanshuu-thakur/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/priyanshuu-thakur/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuu-thakur/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshuu-thakur/DSA/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/priyanshuu-thakur/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
